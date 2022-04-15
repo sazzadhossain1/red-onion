@@ -1,0 +1,14 @@
+.nasta img {
+  height: 150px;
+}
+
+.nasta {
+  padding: 20px;
+  width: 300px;
+  margin: auto;
+}
+
+.nasta:hover {
+  box-shadow: 5px 5px 5px 5px rgb(197, 191, 191);
+  border-radius: 20px;
+}

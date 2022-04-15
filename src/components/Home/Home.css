@@ -1,0 +1,37 @@
+.home-container{
+    background-image: url("../../images/logo/bannerbackground.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 40px;
+    margin-bottom: 50px;
+}
+.main-container a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    margin: 20px;
+    
+    
+}
+
+.banner-text{
+    color: black;
+    margin-top: 60px;
+}
+.input-filed{
+    width: 450px;
+    margin: auto;
+    margin-top: 40px;
+    
+}
+
+
+.input-filed button{
+    background-color:rgb(255, 17, 156);
+    color: white;
+    border-radius: 50px;
+    
+
+}
